@@ -34,7 +34,7 @@ The goal is to help businesses understand customer behaviors and segment profile
 
 ## 📂 How to View the Dashboard
 
-1. Download the `.twbx` file from the `tableau/` folder
+1. Download the `.twbx` file from the `Project/` folder
 2. Open it using [Tableau Public] (https://public.tableau.com/app/profile/muhsina.shehzad/vizzes) or Tableau Desktop
 
 ## ✍️ Author
