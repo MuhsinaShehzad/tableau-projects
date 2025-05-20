@@ -39,6 +39,5 @@ The goal is to help businesses understand customer behaviors and segment profile
 
 ## ✍️ Author
 
-- **Muhsina** – Data Analyst | [LinkedIn] (https://www.linkedin.com/in/muhsina-shehzad-959ab8326/)
-
+- **Muhsina** – Data Analyst | [LinkedIn](https://www.linkedin.com/in/muhsina-shehzad-959ab8326/) or email at [muhsinashehzad182@gmail.com].
 
